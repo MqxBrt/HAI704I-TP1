@@ -10,7 +10,7 @@ Rendu TP1 - Maxime BOURRET
 ```bash
 git clone https://github.com/MqxBrt/HAI704I-TP1
 
-cd TP1-RMI
+cd HAI704I-TP1
 
 make
 
